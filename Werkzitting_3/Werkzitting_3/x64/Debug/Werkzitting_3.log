@@ -1,0 +1,3 @@
+﻿  3.7.5.c
+C:\Users\robin\Documents\C\Werkzitting_3\Werkzitting_3\3.7.5.c(37,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Werkzitting_3.vcxproj -> C:\Users\robin\Documents\C\Werkzitting_3\x64\Debug\Werkzitting_3.exe

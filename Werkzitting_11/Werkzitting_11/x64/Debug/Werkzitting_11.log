@@ -1,0 +1,13 @@
+﻿  agenda.c
+  appointment.c
+  date.c
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_11\Werkzitting_11\appointment.c(11,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_11\Werkzitting_11\appointment.c(11,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_11\Werkzitting_11\appointment.c(11,13):
+  the missing variadic argument 2 is required by format string '%[^\n]'
+  C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_11\Werkzitting_11\appointment.c(11,13):
+  this argument is used as a buffer size
+  
+  Generating Code...
+  Werkzitting_11.vcxproj -> C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_11\x64\Debug\Werkzitting_11.exe

@@ -1,0 +1,4 @@
+﻿  swap.c
+C:\Users\robin\Documents\C\Werkzitting_4\Werkzitting_4\swap.c(7,2): warning C4013: 'swap' undefined; assuming extern returning int
+C:\Users\robin\Documents\C\Werkzitting_4\Werkzitting_4\swap.c(18): warning C4716: 'swap': must return a value
+  Werkzitting_4.vcxproj -> C:\Users\robin\Documents\C\Werkzitting_4\x64\Debug\Werkzitting_4.exe

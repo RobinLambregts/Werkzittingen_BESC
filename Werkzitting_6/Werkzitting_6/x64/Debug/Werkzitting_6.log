@@ -1,0 +1,15 @@
+﻿  6.3.3.c
+  6.3.5.c
+  Main.c
+  Generating Code...
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(10,11): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(11,6): error C2372: 'p': redefinition; different types of indirection
+  C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(10,7):
+  see declaration of 'p'
+  
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(15,7): warning C4013: 'compareInt' undefined; assuming extern returning int
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(19,21): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(22,19): warning C4047: '=': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(23,9): warning C4133: 'function': incompatible types - from 'int *' to 'const char *const '
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\6.3.5.c(26,6): error C2371: 'compareInt': redefinition; different basic types
+C:\Users\robin\Documents\C\Werkzitting_6\Werkzitting_6\Main.c(4,2): warning C4013: 'array' undefined; assuming extern returning int

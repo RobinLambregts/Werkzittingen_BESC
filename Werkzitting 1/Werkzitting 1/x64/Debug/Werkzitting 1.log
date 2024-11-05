@@ -1,0 +1,14 @@
+﻿  1.9.9.c
+C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(6,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(6,10):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(6,10):
+  the missing variadic argument 2 is required by format string '%c'
+  C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(6,10):
+  this argument is used as a buffer size
+  
+C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(7,2): warning C4013: 'choose' undefined; assuming extern returning int
+C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(34,32): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(41,32): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\robin\Documents\C\Werkzitting 1\Werkzitting 1\1.9.9.c(56): warning C4715: 'choose': not all control paths return a value
+  Werkzitting 1.vcxproj -> C:\Users\robin\Documents\C\Werkzitting 1\x64\Debug\Werkzitting 1.exe

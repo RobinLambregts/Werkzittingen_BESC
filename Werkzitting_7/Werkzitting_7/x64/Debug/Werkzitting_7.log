@@ -1,0 +1,11 @@
+﻿  7.2.1.c
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(22,6): error C2371: 'remove': redefinition; different basic types
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(369,26):
+  see declaration of 'remove'
+  
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(25,8): error C2037: left of 'data' specifies undefined struct/union 'node'
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(26,13): error C2037: left of 'next' specifies undefined struct/union 'node'
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(30,27): error C2037: left of 'data' specifies undefined struct/union 'node'
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(31,9): error C2037: left of 'next' specifies undefined struct/union 'node'
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(33,5): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\robin\Documents\C\Werkzittingen\Werkzitting_7\Werkzitting_7\7.2.1.c(34,9): error C2037: left of 'next' specifies undefined struct/union 'node'
